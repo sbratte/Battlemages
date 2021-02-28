@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 299a28221aaace540836984c7fd0dd79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - castPoint: {instanceID: 0}
+  - spell: {fileID: 100000, guid: 457f71e65fc2a4d5a99bb6195c2e029f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
